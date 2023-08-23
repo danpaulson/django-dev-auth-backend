@@ -2,9 +2,9 @@
 from setuptools import setup
 
 setup(
-    name="django-downstream-cache",
+    name="django-dev-auth-backend",
     author="Dan Paulson",
     author_email="danpaulson@gmail.com",
-    description="Simple downstream cache tools for Django",
-    version='1.0.1',
+    description="Simple dev authentication backend for Django",
+    version='1.0.0',
 )
